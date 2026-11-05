@@ -15,3 +15,6 @@ Second Copy Paste the two file deployment & Service
 kubectl get nodes
 
 <img width="413" height="79" alt="image" src="https://github.com/user-attachments/assets/71fadc4a-0cd8-4399-973b-d73a93c213be" />
+
+kubectl get nodes -o wide
+<img width="675" height="85" alt="image" src="https://github.com/user-attachments/assets/aa58ddfa-78ab-40f2-9416-49fb9787c659" />
