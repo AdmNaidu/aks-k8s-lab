@@ -1,5 +1,8 @@
 
 # Welcome to nginx! # Lab 
+First Create RG & Deploy AKs with Min Specification 
+Second Copy Paste the two file deployment & Service 
+
 #kubectl apply -f deployment.yaml
 #kubectl get deployments
 #kubectl get pods
