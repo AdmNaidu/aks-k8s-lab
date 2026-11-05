@@ -11,3 +11,7 @@ Second Copy Paste the two file deployment & Service
 
 
 <img width="1302" height="543" alt="image" src="https://github.com/user-attachments/assets/d042af7a-0856-4ea3-9afb-903060fd1a27" />
+
+kubectl get nodes
+
+<img width="413" height="79" alt="image" src="https://github.com/user-attachments/assets/71fadc4a-0cd8-4399-973b-d73a93c213be" />
