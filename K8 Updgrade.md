@@ -1,4 +1,10 @@
 
+
+
+<img width="826" height="157" alt="image" src="https://github.com/user-attachments/assets/4ee309e9-3fd7-498f-91f9-60e5a9306a03" />
+
+
+
 #kubectl cordon aks-nodepool1-12345678-vmss000000
 
 #kubectl get nodes
